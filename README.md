@@ -47,7 +47,7 @@ Users should be able to:
 - A better hero section design and a restructring of some of the testimonials will be happening in the future.
 
 ### Useful resources
-Third party [service](https://formsubmit.co/)for sending form queries
+Third party [service](https://formsubmit.co/) for sending form queries
 
 ## Author
 
