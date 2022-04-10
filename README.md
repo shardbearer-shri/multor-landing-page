@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://multor-landing-page.netlify.app/)
+- Live Site URL: [View Project](https://multor-landing-page.netlify.app/)
 
 ## My process
 
