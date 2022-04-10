@@ -1,6 +1,6 @@
-# Multor Landing Page - HTML/CSS Practice Project
+# Multor Landing Page - HTML/CSS/JS Practice Project
 
-This is a project based on a given design written with HTML/CSS from scratch using all the best practices.
+This is a project based on a given design written with HTML/CSS/JS from scratch using all the best practices.
 
 
 ## Table of contents
@@ -47,7 +47,9 @@ Users should be able to:
 - A better hero section design and a restructring of some of the testimonials will be happening in the future.
 
 ### Useful resources
-Third party [service](https://formsubmit.co/) for sending form queries
+
+- Third party [service](https://formsubmit.co/) for sending form queries
+- Side scrolling [API](https://swiperjs.com/)
 
 ## Author
 
